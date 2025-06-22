@@ -76,12 +76,11 @@ pytest_cache/
 
 # Pytest cache
 .pytest_cache/
-<<<<<<< HEAD
-=======
+
 
 #Back_up
 LLfinal_backup/
 
 #vscode setting
 .vscode/
->>>>>>> 6dbec34 (CREATE menu & booking APIs)
+

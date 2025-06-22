@@ -38,10 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'restaurant',
-<<<<<<< HEAD
-=======
+    
     'rest_framework',
->>>>>>> 6dbec34 (CREATE menu & booking APIs)
+
 ]
 
 MIDDLEWARE = [
