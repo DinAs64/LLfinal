@@ -84,3 +84,5 @@ LLfinal_backup/
 #vscode setting
 .vscode/
 
+.env
+
